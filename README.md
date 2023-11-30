@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okosei04
 - 👀 I’m interested in Software Engineering and Machine Learning 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on building softwares
 - 📫 How to reach me ...
 
 <!---
