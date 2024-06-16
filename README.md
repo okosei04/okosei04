@@ -9,8 +9,8 @@
 I wield a diverse set of technologies and tools, each adding a unique flavor to my projects:
 
 - 💡 **Languages:** Python, JavaScript, HTML, CSS, Java, C++
-- 🛠️ **Frameworks:** Django, Bootstrap, Tailwind.css, React.js, Node.js
-- 🌱 I’m currently learning Java
+- 🛠️ **Frameworks:** Django, Bootstrap, Tailwind.css
+- 🌱 I’m currently learning React
 
 ## 📫 Let's Connect
 I'm always up for a good conversation or collaboration. Connect with me on:
