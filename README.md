@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kofi
 
-## Welcome to my corner of the coding universe! I'm Kofi Osei, a passionate tech enthusiast who finds joy in crafting software solutions and exploring the endless possibilities of technology. When I'm not in front of a computer screen, you'll likely find me on the soccer field, enjoying a game of ping pong, or glued to a basketball match.
+## Welcome to my corner of the coding universe! I'm a passionate tech enthusiast who finds joy in crafting software solutions and exploring the endless possibilities of technology. When I'm not in front of a computer screen, you'll likely find me on the soccer field, enjoying a game of ping pong, or glued to a basketball match.
 
 -  👀 I’m interested in Software Engineering and Machine Learning
 
