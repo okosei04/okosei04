@@ -8,7 +8,7 @@
 
 I wield a diverse set of technologies and tools, each adding a unique flavor to my projects:
 
-- 💡 **Languages:** Python,Java, SQL
+- 💡 **Languages:** Python,Java, Node, SQL
 - 🛠️ **Frameworks:** Django, Linux, Docker
 - 🌱 I’m currently learning Spring Boot
 
