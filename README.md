@@ -1,5 +1,5 @@
 <h2 align="left">Hey there! I'm Kofi 👋</h2>
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
